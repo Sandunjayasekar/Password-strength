@@ -51,6 +51,7 @@ button img {
     color: #fff;
     bottom: -30px;
     font-size: 15px;
+    display: none;
 }
 
 ::placeholder {
