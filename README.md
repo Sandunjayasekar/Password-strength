@@ -1,4 +1,6 @@
-Deploy link : 
+Deploy link : https://sandun-password-strength.netlify.app
 <br/>
 <br/>
-![Description of the GIF](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/assets/your-gif-file.gif)
+<div align="center">
+  <img src="https://github.com/Sandunjayasekar/Password-strength/blob/master/images/ScreenRecording2024-06-18at17.41.23-ezgif.com-video-to-gif-converter.mov">
+</div>
